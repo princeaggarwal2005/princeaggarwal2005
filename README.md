@@ -1,7 +1,7 @@
 # Hi, I'm Prince 👋
 
 🎯 2nd Year Mathematics & Computing @ DTU  
-💻 DSA + Web Dev + Open Source  
+💻 DSA + Competitive Programmer + Web Dev + Open Source  
 🚀 Preparing for GSSoC 2026  
 
 ---
