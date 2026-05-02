@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prince 👋
 
-<!--
-**princeaggarwal2005/princeaggarwal2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 2nd Year Mathematics & Computing @ DTU  
+💻 DSA + Web Dev + Open Source  
+🚀 Preparing for GSSoC 2026  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: C++, Python, JavaScript  
+- Core: DSA, OOP, Problem Solving  
+- Web: HTML, CSS, JS  
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=princeaggarwal2005&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect
+- Email: agr.prince2005@gmail.com
+- LinkedIn: https://www.linkedin.com/in/prince-aggarwal-b00864321/
