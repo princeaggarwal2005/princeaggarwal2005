@@ -1,73 +1,29 @@
-# Hi, I'm Prince 
+# Prince Aggarwal
 
-**3rd Year Engineering grad**
+B.Tech, Mathematics & Computing @ DTU · 2028
+I build and break AI agent systems
+Competitive Programmer part-time
 
-I like building things that are slightly too ambitious, breaking them, figuring out why they broke, and rebuilding them better.
+## Building
 
-Currently focused on:
+**[AgentATK]** — See what an attacker can reach in your AI agent.
 
-🤖 **AI Engineering** · Agentic Systems · LLM Tooling
-⚙️ **Backend & Systems** · APIs · Infrastructure
-🏆 **Competitive Programming** · 500+ problems solved
-🌐 **Full-Stack Engineering** · TypeScript · Python
+Point it at a LangChain / LangGraph repo. It draws the attack surface:
 
-### 🚧 What I'm building
+- **Inputs** — chat, uploads, web results, retrieved docs, tool and MCP outputs
+- **Processing** — agents, graph nodes, models, loops
+- **Actions** — what the agent can do: write data, send outside, run code, pay, push to repos
+- **Guardrails** — shown where they sit, weak ones marked weak
+- **Tests** — the relevant OWASP LLM test buckets for each path
 
-**[AgentATK](https://github.com/princeaggarwal2005/Agentatk)**
-An agent security scanner that reads an AI agent's code, maps its attack surface, generates targeted attacks, verifies whether they actually worked, and produces reproducible PoCs and remediation patches.
+Every element cites file:line. Anything it can't understand is shown, never hidden. It never runs the scanned code.
 
-I'm especially interested in the engineering problems around **agents that can actually do things**: tool use, execution pipelines, attack surfaces, evaluation, reliability, and the infrastructure underneath them.
+`v0` maps the surface. Automated attack testing comes next.
 
-### 🧰 Toolbox
+## Stack
 
-```text
-Languages    C++ · Python · TypeScript · JavaScript · Go
-Backend      Node.js · FastAPI · REST APIs
-Frontend     React · HTML · CSS · Tailwind
-AI / Agents  LLM APIs · Agentic Workflows · MCP · Evals
-Infra        Git · GitHub · Docker · Cloud
-Dev Tools    Claude Code · OpenCode · Antigravity CLI
-Core         DSA · OOP · Systems · Problem Solving
-```
+`Python` `Go` `TypeScript` `C++` `FastAPI` `Node.js` `React` `Docker` `Redis` `MCP`
 
-### 🧠 Currently obsessed with
+## Elsewhere
 
-```text
-AI Agents
-├── Tool use & orchestration
-├── Agent security
-├── Evaluation & reliability
-├── Context / memory
-└── Agent infrastructure
-
-Backend & Systems
-├── APIs
-├── Distributed systems
-├── Developer tooling
-└── Performance
-```
-
-### 🏆 Competitive Programming
-
-**500+ problems solved**
-
-I still spend a healthy amount of time getting humbled by algorithms.
-
-### 📊 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=princeaggarwal2005&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeaggarwal2005&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-### 🌐 Find me
-
-[GitHub](https://github.com/princeaggarwal2005) ·
-[LinkedIn](https://www.linkedin.com/in/prince-aggarwal-b00864321/) ·
-[Email](mailto:agr.prince2005@gmail.com)
-
----
-
-> **Build → Break → Understand → Rebuild.**
->
-> Currently looking for opportunities to work on **AI engineering, backend/systems, and software engineering**.
+[LinkedIn](https://www.linkedin.com/in/prince-aggarwal-b00864321/) · [X](https://x.com/agr_prince2005) · [LeetCode](https://leetcode.com/u/agr_prince2005/) · [Codeforces](https://codeforces.com/profile/agr.prince2005) · [Email](mailto:agr.prince2005@gmail.com)
